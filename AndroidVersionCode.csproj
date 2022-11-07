@@ -19,6 +19,9 @@
 		<ApplicationIdGuid>09C205B8-BD8F-44EA-9683-34F5AF70941B</ApplicationIdGuid>
 
 		<!-- Versions -->
+		
+		<!--You will get a Version Code 1, whatever you put here, after publishing an APK-->
+		
 		<ApplicationDisplayVersion>2.0</ApplicationDisplayVersion>
 		<ApplicationVersion>2</ApplicationVersion>
 
